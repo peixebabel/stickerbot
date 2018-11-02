@@ -1,0 +1,4 @@
+# List of required packages (Dependencies)
+python-telegram-bot
+numpy
+
