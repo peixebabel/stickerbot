@@ -1,4 +1,4 @@
-# PeixeBabelBot #
+# Sticker Bot #
 
 Este código é uma implementação básica de um bot de Telegram que envia stickers aleatórios.
 Adicione o perfil @PeixeBabelBot no Telegram para testá-lo! Basta enviar um sticker, e ele te envia outro de volta.
