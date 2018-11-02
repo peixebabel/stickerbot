@@ -9,4 +9,5 @@ Para replicar o funcionamento desse código, ou fazer alterações em cima dele,
 Solicite sua chave com o BotFather (adicione o perfil @BotFather no Telegram). 
 
 Os arquivos de configuração que acompanham esse código permitem o deploy da aplicação na plataforma Heroku (https://www.heroku.com/)
+
 Repositório dessa aplicação: https://git.heroku.com/peixebabelstickerbot.git
